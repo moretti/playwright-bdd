@@ -7,7 +7,7 @@ node_modules
 npm-debug.log
 
 # my
-/dist
+# /dist  # temporarily under version control for fork testing
 **/.features-gen/**/*.spec.js
 .cache
 test-results
