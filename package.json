@@ -36,7 +36,6 @@
     "README.md"
   ],
   "scripts": {
-    "prepare": "git config core.hooksPath scripts/git-hooks",
     "lint": "eslint .",
     "tsc": "tsc",
     "tsc:test": "tsc -p test/tsconfig.json",
